@@ -3,8 +3,11 @@
 This project focuses on developing and evaluating machine learning models for credit risk assessment. The objective is to predict whether an applicant will be approved for credit based on historical data and several features such as demographic, financial, and transactional information.
 
 Key Features:
+
 Data Preprocessing: Data cleaning, feature encoding, and label encoding to prepare the dataset for machine learning models.
+
 Modeling Techniques: Implemented multiple machine learning algorithms including:
+
   - Logistic Regression
   - Decision Tree Classifier
   - Random Forest Classifier
@@ -12,7 +15,7 @@ Modeling Techniques: Implemented multiple machine learning algorithms including:
   - XGBoost
   - CatBoost
   - Naive Bayes
-  - 
+    
 Hyperparameter Tuning: Utilized **GridSearchCV** for hyperparameter optimization, improving model performance and generalization. For the CatBoost model, key hyperparameters such as iterations, depth, and learning rate were fine-tuned.
 
 Evaluation: Evaluated the models based on accuracy, precision, recall, and F1-score to understand their predictive capabilities. CatBoost was selected as the final model due to its high accuracy and performance in both training and test data.
