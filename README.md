@@ -1,6 +1,6 @@
 **Credit Risk Modeling Project**
 
-This project focuses on developing and evaluating machine learning models for credit risk assessment. The objective is to predict whether an applicant will be approved for credit based on historical data and several features such as demographic, financial, and transactional information.
+This project focuses on developing and evaluating machine learning models for credit risk assessment. The objective is to predict whether an applicant will be approved for credit based on historical data and several features such as financial, and transactional information.
 
 Key Features:
 
